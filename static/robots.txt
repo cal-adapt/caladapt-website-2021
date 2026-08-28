@@ -90,7 +90,7 @@ DisallowAITraining: /
 User-Agent: *
 DisallowAITraining: /
 Content-Usage: ai=n
-Content-Signal: search=yes, ai-input=no, ai-train=no
+Content-Signal: search=no, ai-input=no, ai-train=no
 Allow: /
 
 User-agent: *
